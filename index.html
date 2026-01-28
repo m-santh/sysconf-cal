@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Systems Conference Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Systems Conferences</h1>
+
+<button onclick="tab('cfp')">CFP</button>
+<button onclick="tab('dates')">Dates</button>
+
+<select id="rank" onchange="render()">
+  <option>All</option>
+  <option>A*</option>
+  <option>A</option>
+  <option>B</option>
+</select>
+
+<div id="content"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
