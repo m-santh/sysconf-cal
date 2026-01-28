@@ -1,0 +1,38 @@
+[
+  {
+    "name": "OSDI",
+    "core_rank": "A*",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA"
+  },
+  {
+    "name": "SOSP",
+    "core_rank": "A*",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA"
+  },
+  {
+    "name": "ASPLOS",
+    "core_rank": "A*",
+    "cfp_deadline": "TBA",
+    "cfp_url": "https://www.asplos-conference.org/asplos2026/cfp/"
+  },
+  {
+    "name": "EuroSys",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA"
+  },
+  {
+    "name": "USENIX ATC",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA"
+  },
+  {
+    "name": "FAST",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA"
+  }
+]

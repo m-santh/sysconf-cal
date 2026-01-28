@@ -1,0 +1,50 @@
+[
+  {
+    "name": "OSDI",
+    "core_rank": "A*",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "TBA",
+    "homepage": "https://www.usenix.org/conference/osdi"
+  },
+  {
+    "name": "SOSP",
+    "core_rank": "A*",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "USA",
+    "homepage": "https://www.sosp.org"
+  },
+  {
+    "name": "ASPLOS",
+    "core_rank": "A*",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "USA",
+    "homepage": "https://www.asplos-conference.org"
+  },
+  {
+    "name": "EuroSys",
+    "core_rank": "A",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "USA",
+    "homepage": "https://www.eurosys.org"
+  },
+  {
+    "name": "USENIX ATC",
+    "core_rank": "A",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "USA",
+    "homepage": "https://www.usenix.org/conference/atc"
+  },
+  {
+    "name": "FAST",
+    "core_rank": "A",
+    "start_date": "TBA",
+    "end_date": "TBA",
+    "location": "TBA",
+    "homepage": "https://www.usenix.org/conference/fast"
+  }
+]
