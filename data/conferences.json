@@ -1,8 +1,113 @@
 [
-  { "name": "OSDI", "core_rank": "A*" },
-  { "name": "SOSP", "core_rank": "A*" },
-  { "name": "ASPLOS", "core_rank": "A*" },
-  { "name": "EuroSys", "core_rank": "A" },
-  { "name": "USENIX ATC", "core_rank": "A" },
-  { "name": "FAST", "core_rank": "A" }
+  {
+    "name": "OSDI",
+    "core_rank": "A*",
+    "base_url": "https://www.usenix.org/conference/osdi26/call-for-papers"
+  },
+  {
+    "name": "SOSP",
+    "core_rank": "A*",
+    "base_url": "https://sigops.org/s/conferences/sosp/2026/cfp.html"
+  },
+  {
+    "name": "ASPLOS",
+    "core_rank": "A*",
+    "base_url": "https://www.asplos-conference.org/call-for-papers-asplos27/"
+  },
+  {
+    "name": "SIGCOMM",
+    "core_rank": "A*",
+    "base_url": "https://conferences.sigcomm.org/sigcomm/2026/cfp/"
+  },
+  {
+    "name": "SC",
+    "core_rank": "A*",
+    "base_url": "https://sc26.supercomputing.org/program/papers/"
+  },
+  {
+    "name": "EuroSys",
+    "core_rank": "A",
+    "base_url": "https://2026.eurosys.org/cfp.html"
+  },
+  {
+    "name": "FAST",
+    "core_rank": "A",
+    "base_url": "https://www.usenix.org/conference/fast26/call-for-papers"
+  },
+  {
+    "name": "NSDI",
+    "core_rank": "A",
+    "base_url": "https://www.usenix.org/conference/nsdi26/call-for-papers"
+  },
+  {
+    "name": "INFOCOM",
+    "core_rank": "A",
+    "base_url": "https://infocom2026.ieee-infocom.org/call-papers"
+  },
+  {
+    "name": "PODC",
+    "core_rank": "A",
+    "base_url": "https://www.podc.org/podc2026/call-for-papers"
+  },
+  {
+    "name": "IPDPS",
+    "core_rank": "A",
+    "base_url": "https://www.ipdps.org/ipdps2026/2026-call-for-papers.html"
+  },
+  {
+    "name": "HPCA",
+    "core_rank": "A",
+    "base_url": "https://www.hpca.org/2026/cfp"
+  },
+  {
+    "name": "PPoPP",
+    "core_rank": "A",
+    "base_url": "https://ppopp.org/2026/cfp"
+  },
+  {
+    "name": "SYSTOR",
+    "core_rank": "A",
+    "base_url": "https://www.systor.org/2026/cfp/"
+  },
+  {
+    "name": "ISPASS",
+    "core_rank": "B",
+    "base_url": "https://ispass.org/ispass2026/cfp.php"
+  },
+  {
+    "name": "ICS",
+    "core_rank": "B",
+    "base_url": "https://ispass.org/ispass2026/cfp.php"
+  },
+  {
+    "name": "SRDS",
+    "core_rank": "B",
+    "base_url": "https://srds-conference.org/index.php/call-for-papers/"
+  },
+  {
+    "name": "SIGMETRICS",
+    "core_rank": "A",
+    "base_url": "https://www.sigmetrics.org/sigmetrics2026/call_for_papers.html"
+  },
+  {
+    "name": "ICML",
+    "core_rank": "A*",
+    "base_url": "https://icml.cc/Conferences/2026/CallForPapers"
+  },
+  {
+    "name": "NeurIPS",
+    "core_rank": "A*",
+    "base_url": "https://neurips.cc/Conferences/2024"
+  },
+  {
+    "name": "CVPR",
+    "core_rank": "A*",
+    "base_url": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers"
+  },
+  {
+    "name": "MLSys",
+    "core_rank": "A",
+    "base_url": "https://mlsys.org/Conferences/2026"
+  }
 ]
+
