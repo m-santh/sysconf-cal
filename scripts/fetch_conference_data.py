@@ -20,12 +20,12 @@ def google_like_search(query):
 
 def find_homepage(conf):
     known = {
-        "OSDI": "https://www.usenix.org/conference/osdi",
-        "SOSP": "https://www.sosp.org",
-        "ASPLOS": "https://www.asplos-conference.org",
-        "EuroSys": "https://www.eurosys.org",
-        "USENIX ATC": "https://www.usenix.org/conference/atc",
-        "FAST": "https://www.usenix.org/conference/fast"
+        #"OSDI": "https://www.usenix.org/conference/osdi",
+        #"SOSP": "https://www.sosp.org",
+        #"ASPLOS": "https://www.asplos-conference.org",
+        #"EuroSys": "https://www.eurosys.org",
+        #"USENIX ATC": "https://www.usenix.org/conference/atc",
+        #"FAST": "https://www.usenix.org/conference/fast"
     }
     return known.get(conf) or google_like_search(conf)
 
