@@ -1,0 +1,4 @@
+body { font-family: Arial; padding: 20px; }
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ccc; padding: 6px; }
+button { margin-right: 10px; }
