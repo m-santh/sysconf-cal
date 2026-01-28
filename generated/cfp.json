@@ -3,36 +3,154 @@
     "name": "OSDI",
     "core_rank": "A*",
     "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
+    "cfp_url": "TBA",
+    "note": ""
   },
   {
     "name": "SOSP",
     "core_rank": "A*",
     "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
+    "cfp_url": "TBA",
+    "note": ""
   },
   {
     "name": "ASPLOS",
     "core_rank": "A*",
+    "cfp_deadline": "april 15 2026",
+    "cfp_url": "https://www.asplos-conference.org/call-for-papers-asplos27/",
+    "note": "Earliest deadline from multiple cycles"
+  },
+  {
+    "name": "SIGCOMM",
+    "core_rank": "A*",
     "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "SC",
+    "core_rank": "A*",
+    "cfp_deadline": "1 march 2026",
+    "cfp_url": "https://sc26.supercomputing.org/program/papers/",
+    "note": "Earliest deadline from multiple cycles"
   },
   {
     "name": "EuroSys",
     "core_rank": "A",
-    "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
-  },
-  {
-    "name": "USENIX ATC",
-    "core_rank": "A",
-    "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
+    "cfp_deadline": "march 6 2026",
+    "cfp_url": "https://2026.eurosys.org/cfp.html",
+    "note": "Earliest deadline from multiple cycles"
   },
   {
     "name": "FAST",
     "core_rank": "A",
     "cfp_deadline": "TBA",
-    "cfp_url": "TBA"
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "NSDI",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "INFOCOM",
+    "core_rank": "A",
+    "cfp_deadline": "july 31 2025",
+    "cfp_url": "https://infocom2026.ieee-infocom.org/call-papers",
+    "note": "Earliest deadline from multiple cycles"
+  },
+  {
+    "name": "PODC",
+    "core_rank": "A",
+    "cfp_deadline": "february 16 2026",
+    "cfp_url": "https://www.podc.org/podc2026/call-for-papers",
+    "note": "Earliest deadline from multiple cycles"
+  },
+  {
+    "name": "IPDPS",
+    "core_rank": "A",
+    "cfp_deadline": "october 9 2025",
+    "cfp_url": "https://www.ipdps.org/ipdps2026/2026-call-for-papers.html",
+    "note": "Earliest deadline from multiple cycles"
+  },
+  {
+    "name": "HPCA",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "PPoPP",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "SYSTOR",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "ISPASS",
+    "core_rank": "B",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "ICS",
+    "core_rank": "B",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "SRDS",
+    "core_rank": "B",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "SIGMETRICS",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "ICML",
+    "core_rank": "A*",
+    "cfp_deadline": "january 28 2026",
+    "cfp_url": "https://icml.cc/Conferences/2026/CallForPapers",
+    "note": "Earliest deadline from multiple cycles"
+  },
+  {
+    "name": "NeurIPS",
+    "core_rank": "A*",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
+  },
+  {
+    "name": "CVPR",
+    "core_rank": "A*",
+    "cfp_deadline": "november 13 2025",
+    "cfp_url": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+    "note": ""
+  },
+  {
+    "name": "MLSys",
+    "core_rank": "A",
+    "cfp_deadline": "TBA",
+    "cfp_url": "TBA",
+    "note": ""
   }
 ]

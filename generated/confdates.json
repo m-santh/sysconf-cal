@@ -1,50 +1,134 @@
 [
   {
     "name": "OSDI",
-    "core_rank": "A*",
-    "start_date": "TBA",
-    "end_date": "TBA",
     "location": "TBA",
-    "homepage": "https://www.usenix.org/conference/osdi25/presentation/huang-yibo"
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
   },
   {
     "name": "SOSP",
-    "core_rank": "A*",
-    "start_date": "TBA",
-    "end_date": "TBA",
     "location": "TBA",
-    "homepage": "TBA"
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
   },
   {
     "name": "ASPLOS",
-    "core_rank": "A*",
-    "start_date": "TBA",
-    "end_date": "TBA",
+    "location": "Program Workshops and Tutorials Code of Conduct Call For Papers",
+    "conference_dates": "TBA",
+    "conf_url": "https://www.asplos-conference.org/call-for-papers-asplos27/"
+  },
+  {
+    "name": "SIGCOMM",
     "location": "TBA",
-    "homepage": "TBA"
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "SC",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "https://sc26.supercomputing.org/program/papers/"
   },
   {
     "name": "EuroSys",
-    "core_rank": "A",
-    "start_date": "TBA",
-    "end_date": "TBA",
     "location": "TBA",
-    "homepage": "TBA"
-  },
-  {
-    "name": "USENIX ATC",
-    "core_rank": "A",
-    "start_date": "TBA",
-    "end_date": "TBA",
-    "location": "USA",
-    "homepage": "https://www.usenix.org/conference/atc25/presentation/liu-jiacheng"
+    "conference_dates": "TBA",
+    "conf_url": "https://2026.eurosys.org/cfp.html"
   },
   {
     "name": "FAST",
-    "core_rank": "A",
-    "start_date": "TBA",
-    "end_date": "TBA",
     "location": "TBA",
-    "homepage": "TBA"
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "NSDI",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "INFOCOM",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "https://infocom2026.ieee-infocom.org/call-papers"
+  },
+  {
+    "name": "PODC",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "https://www.podc.org/podc2026/call-for-papers"
+  },
+  {
+    "name": "IPDPS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "https://www.ipdps.org/ipdps2026/2026-call-for-papers.html"
+  },
+  {
+    "name": "HPCA",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "PPoPP",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "SYSTOR",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "ISPASS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "ICS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "SRDS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "SIGMETRICS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "ICML",
+    "location": "Seoul, South Korea, July",
+    "conference_dates": "december 12 2025 to january 25 2026",
+    "conf_url": "https://icml.cc/Conferences/2026/CallForPapers"
+  },
+  {
+    "name": "NeurIPS",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
+  },
+  {
+    "name": "CVPR",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers"
+  },
+  {
+    "name": "MLSys",
+    "location": "TBA",
+    "conference_dates": "TBA",
+    "conf_url": "TBA"
   }
 ]
