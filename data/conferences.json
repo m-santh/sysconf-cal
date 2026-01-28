@@ -1,0 +1,8 @@
+[
+  { "name": "OSDI", "core_rank": "A*" },
+  { "name": "SOSP", "core_rank": "A*" },
+  { "name": "ASPLOS", "core_rank": "A*" },
+  { "name": "EuroSys", "core_rank": "A" },
+  { "name": "USENIX ATC", "core_rank": "A" },
+  { "name": "FAST", "core_rank": "A" }
+]
